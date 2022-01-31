@@ -1,4 +1,4 @@
-All credits go to https://github.com/twilsonco/TransmissionBot
+All credits go to https://github.com/twilsonco/TransmissionBot, Thanks @jpdsc for DockerFile
 
 # Transmission Discord Bot
 A self-hosted python [Discord.py](https://github.com/Rapptz/discord.py) bot for controlling an instance of [Transmission](https://transmissionbt.com), the bittorrent client,  from a **private** Discord server.
